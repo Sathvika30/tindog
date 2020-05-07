@@ -119,6 +119,10 @@ h3{
   color: black;
 }
 
+.end{
+  font-size: 1rem;
+}
+
 @media (max-width:990px){
   .pdog{
     position: static;
@@ -128,4 +132,14 @@ h3{
   .top{
     text-align: center;
   }
+  #features h3 {
+    font-size: 4rem;
+  }
+  p{
+    font-size: 2rem;
+  }
+  .nav-item{
+    font-size: 1.7rem;
+  }
 }
+
